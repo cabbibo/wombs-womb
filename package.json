@@ -1,0 +1,26 @@
+{
+  "name": "wombs-womb",
+  "version": "0.0.0",
+  "description": "boiler plate for wombs",
+  "main": "wombs-womb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabbibo/wombs-womb"
+  },
+  "dependecies": {
+    "underscore":"1.6.0",
+    "wombs-three-component":"0.0.0"
+  },
+  "keywords": [
+    "wombs"
+  ],
+  "author": "@cabbibo",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/cabbibo/wombs-womb/issues"
+  },
+  "homepage": "https://github.com/cabbibo/wombs-womb"
+}
