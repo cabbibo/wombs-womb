@@ -12,7 +12,7 @@
   },
   "dependecies": {
     "underscore":"1.6.0",
-    "three":"0.66.2"
+    "three":"0.66.2",
     "wombs-three-component":"0.0.0",
     "wombs-audio-controller":"0.0.0"
   },
