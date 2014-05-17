@@ -1,6 +1,6 @@
 {
   "name": "wombs-womb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "boiler plate for wombs",
   "main": "wombs-womb.js",
   "scripts": {
@@ -10,11 +10,11 @@
     "type": "git",
     "url": "https://github.com/cabbibo/wombs-womb"
   },
-  "dependecies": {
+  "dependencies": {
     "underscore":"1.6.0",
     "three":"0.66.2",
-    "wombs-three-component":"0.0.0",
-    "wombs-audio-controller":"0.0.0"
+    "wombs-three-component":"*",
+    "wombs-audio-controller":"*"
   },
   "keywords": [
     "wombs"
